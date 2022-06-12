@@ -1,0 +1,3 @@
+[submodule "portfolio/threejs/threejs_flight_simulator"]
+	path = portfolio/threejs/threejs_flight_simulator
+	url = https://github.com/Haris487/threejs_flight_simulator.git
