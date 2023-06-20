@@ -4,3 +4,6 @@
 [submodule "portfolio/javascript/2dchess"]
 	path = portfolio/javascript/2dchess
 	url = https://github.com/Haris487/chess2d.git
+[submodule "portfolio/threejs/threejs_room_temprature1"]
+	path = portfolio/threejs/threejs_room_temprature1
+	url = https://github.com/Haris487/threejs_room_temprature.git
